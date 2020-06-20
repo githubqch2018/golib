@@ -4,3 +4,8 @@ package math
 func Add(a int, b int) int {
 	return a + b
 }
+
+// Reurn two a*b
+func Cheng(a int, b int) int {
+	return a * b
+}
